@@ -1,0 +1,5 @@
+com\nopcommerce\demo\customlisteners\CustomListeners.class
+com\nopcommerce\demo\testbase\TestBase.class
+com\nopcommerce\demo\testsuits\TopMenuTest.class
+com\nopcommerce\demo\AppTest.class
+com\nopcommerce\demo\TestNG\TestNGGrouping.class

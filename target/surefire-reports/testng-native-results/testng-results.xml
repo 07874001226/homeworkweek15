@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicking on apparel linkBy.linkText: Apparel<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify user navigate to apparel page successfullyBy.partialLinkText: Apparel<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking books linkBy.linkText: Books<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify user navigate to books page successfullyBy.partialLinkText: Books<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on computer linkBy.linkText: Computers<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify user navigate to computer page successfullyBy.partialLinkText: Computers<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on digital downloads linkBy.linkText: Digital downloads<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify user navigate to digitaldownloads page successfullyBy.partialLinkText: Digital downloads<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on electronics link By.linkText: Electronics<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify user navigate to electronic page successfullyBy.partialLinkText: Electronics<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on giftcards linkBy.linkText: Gift Cards<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify user navigate to giftcards page successfullyBy.partialLinkText: Gift Cards<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on jewelry linkBy.linkText: Jewelry<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verify user navigate to jewelry page successfullyBy.partialLinkText: Jewelry<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="98784" started-at="2021-06-13T01:28:38 BST" finished-at="2021-06-13T01:30:17 BST">
+    <groups>
+      <group name="regression">
+        <method signature="TopMenuTest.verifyUserShouldNavigateToApparelPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToApparelPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToBooksPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToBooksPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToComputerPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToComputerPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToDigitalDownloadsPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToDigitalDownloadsPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToElectronicsPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToElectronicsPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToGiftCardsPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToGiftCardsPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToJewelrtPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToJewelrtPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TopMenuTest.verifyUserShouldNavigateToComputerPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToComputerPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="TopMenuTest.verifyUserShouldNavigateToComputerPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToComputerPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+        <method signature="TopMenuTest.verifyUserShouldNavigateToElectronicsPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToElectronicsPage" class="com.nopcommerce.demo.testsuits.TopMenuTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="98784" started-at="2021-06-13T01:28:38 BST" finished-at="2021-06-13T01:30:17 BST">
+      <class name="com.nopcommerce.demo.testsuits.TopMenuTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="setUP" is-config="true" duration-ms="11880" started-at="2021-06-13T01:28:38 BST" finished-at="2021-06-13T01:28:50 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToApparelPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToApparelPage" duration-ms="3425" started-at="2021-06-13T01:28:50 BST" finished-at="2021-06-13T01:28:54 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on apparel linkBy.linkText: Apparel<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify user navigate to apparel page successfullyBy.partialLinkText: Apparel<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToApparelPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="tearDown" is-config="true" duration-ms="5301" started-at="2021-06-13T01:28:54 BST" finished-at="2021-06-13T01:28:59 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="setUP" is-config="true" duration-ms="7068" started-at="2021-06-13T01:28:59 BST" finished-at="2021-06-13T01:29:06 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToBooksPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToBooksPage" duration-ms="3389" started-at="2021-06-13T01:29:06 BST" finished-at="2021-06-13T01:29:09 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking books linkBy.linkText: Books<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify user navigate to books page successfullyBy.partialLinkText: Books<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToBooksPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="tearDown" is-config="true" duration-ms="2183" started-at="2021-06-13T01:29:09 BST" finished-at="2021-06-13T01:29:12 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="setUP" is-config="true" duration-ms="7294" started-at="2021-06-13T01:29:12 BST" finished-at="2021-06-13T01:29:19 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToComputerPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToComputerPage" duration-ms="3322" started-at="2021-06-13T01:29:19 BST" finished-at="2021-06-13T01:29:22 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on computer linkBy.linkText: Computers<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify user navigate to computer page successfullyBy.partialLinkText: Computers<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToComputerPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="tearDown" is-config="true" duration-ms="2649" started-at="2021-06-13T01:29:22 BST" finished-at="2021-06-13T01:29:25 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="setUP" is-config="true" duration-ms="7209" started-at="2021-06-13T01:29:25 BST" finished-at="2021-06-13T01:29:32 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToDigitalDownloadsPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToDigitalDownloadsPage" duration-ms="2896" started-at="2021-06-13T01:29:32 BST" finished-at="2021-06-13T01:29:35 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on digital downloads linkBy.linkText: Digital downloads<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify user navigate to digitaldownloads page successfullyBy.partialLinkText: Digital downloads<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToDigitalDownloadsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="tearDown" is-config="true" duration-ms="2222" started-at="2021-06-13T01:29:35 BST" finished-at="2021-06-13T01:29:37 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="setUP" is-config="true" duration-ms="7758" started-at="2021-06-13T01:29:37 BST" finished-at="2021-06-13T01:29:45 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToElectronicsPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToElectronicsPage" duration-ms="2916" started-at="2021-06-13T01:29:45 BST" finished-at="2021-06-13T01:29:48 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on electronics link By.linkText: Electronics<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify user navigate to electronic page successfullyBy.partialLinkText: Electronics<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToElectronicsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="tearDown" is-config="true" duration-ms="2475" started-at="2021-06-13T01:29:48 BST" finished-at="2021-06-13T01:29:50 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="setUP" is-config="true" duration-ms="7816" started-at="2021-06-13T01:29:50 BST" finished-at="2021-06-13T01:29:58 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToGiftCardsPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToGiftCardsPage" duration-ms="3404" started-at="2021-06-13T01:29:58 BST" finished-at="2021-06-13T01:30:02 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on giftcards linkBy.linkText: Gift Cards<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify user navigate to giftcards page successfullyBy.partialLinkText: Gift Cards<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToGiftCardsPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="tearDown" is-config="true" duration-ms="2859" started-at="2021-06-13T01:30:02 BST" finished-at="2021-06-13T01:30:04 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="setUP" is-config="true" duration-ms="7369" started-at="2021-06-13T01:30:04 BST" finished-at="2021-06-13T01:30:12 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToJewelrtPage()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="verifyUserShouldNavigateToJewelrtPage" duration-ms="2733" started-at="2021-06-13T01:30:12 BST" finished-at="2021-06-13T01:30:15 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on jewelry linkBy.linkText: Jewelry<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verify user navigate to jewelry page successfullyBy.partialLinkText: Jewelry<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToJewelrtPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testsuits.TopMenuTest@63e2203c]" name="tearDown" is-config="true" duration-ms="2331" started-at="2021-06-13T01:30:15 BST" finished-at="2021-06-13T01:30:17 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.demo.testsuits.TopMenuTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
